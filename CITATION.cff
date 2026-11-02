@@ -10,6 +10,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-11-02"
 license: MIT
+doi: "10.5281/zenodo.23877018"
 repository-code: "https://github.com/LucasBB1/Incumbencia-Alcaldes"
 keywords:
   - límite de reelección
@@ -27,3 +28,4 @@ preferred-citation:
   year: 2026
   number: "2"
   collection-title: "Documento de trabajo"
+  doi: "10.5281/zenodo.23877074"

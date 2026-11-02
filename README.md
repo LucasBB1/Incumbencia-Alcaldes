@@ -1,10 +1,12 @@
 # Fin del atrincheramiento: el límite de reelección y la competencia municipal en Chile, 2012–2024
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23877018.svg)](https://doi.org/10.5281/zenodo.23877018)
+
 Código y datos del **Documento de trabajo N.° 2** de Lucas Bottinelli Baltra. El estudio evalúa qué cambia en una elección municipal cuando el alcalde deja el cargo por el límite de reelección de la Ley 21.238 y no por decisión propia, con los resultados de las 345 comunas en las elecciones de alcalde de 2012, 2016, 2021 y 2024.
 
 **Autor:** Lucas Bottinelli Baltra · [lucasbb1.github.io](https://lucasbb1.github.io) · ORCID [0009-0000-4865-7261](https://orcid.org/0009-0000-4865-7261)
 
-El documento está en `documento/` (Word y PDF).
+El documento está en `documento/` (Word y PDF) y en Zenodo: https://doi.org/10.5281/zenodo.23877074
 
 ## Resultados principales
 
@@ -41,7 +43,9 @@ Paquetes: `tidyverse`, `readxl`, `rdrobust`, `rddensity`, `ggplot2`.
 
 ## Cómo citar
 
-Bottinelli Baltra, L. (2026). *Fin del atrincheramiento: el límite de reelección y la competencia municipal en Chile, 2012–2024* (Documento de trabajo N.° 2).
+Bottinelli Baltra, L. (2026). *Fin del atrincheramiento: el límite de reelección y la competencia municipal en Chile, 2012–2024* (Documento de trabajo N.° 2). https://doi.org/10.5281/zenodo.23877074
+
+Código y datos: Bottinelli Baltra, L. (2026). *Incumbencia-Alcaldes* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23877018
 
 ## Licencias
 
