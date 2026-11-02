@@ -1,0 +1,6 @@
+data/raw/*
+!data/raw/LEEME.md
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
